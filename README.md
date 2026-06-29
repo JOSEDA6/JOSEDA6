@@ -2,17 +2,14 @@
 
 Hi! I'm **JOSEDA** — an AI Application Developer and 2026 graduate from GDUT, majoring in Artificial Intelligence.
 
-I build real-world AI systems and developer tools. My work spans from full-stack RAG architectures to browser extensions and WeChat mini programs. I write about what I learn — not as polished tutorials, but as honest records of figuring things out.
-
 ---
 
 ## 🎯 What I'm Working On
 
-- 🤖 **AI Applications** — Designing and deploying RAG systems with multi-layer architectures and local inference.
-- 🛠️ **Developer Tools** — Building Chrome extensions and desktop utilities that solve real workflow bottlenecks.
-- 📱 **Full-Stack Projects** — WeChat Mini Programs with cloud-backed dual-track data architecture.
-- ✍️ **Technical Writing** — Writing about AI engineering, agent design patterns, and the gap between theory and practice.
-- 📷 **Photography** — Capturing landscapes with a Nikon when I'm not at the keyboard.
+- 🤖 **AI Applications** — Building local agents and RAG systems with multi-layer architectures.
+- 🛠️ **Developer Tools** — Building Chrome extensions and desktop utilities with vibecoding — stuff I actually use.
+- ✍️ **Technical Writing** — Writing about agent design patterns — what actually works vs what the papers say.
+- 📷 **Photography** — Shooting with a Nikon Z5 📷 — my photos live on my site 🌄.
 
 
 
