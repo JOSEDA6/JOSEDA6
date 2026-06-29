@@ -2,7 +2,7 @@
 
 Hi! I'm **JOSEDA** — an AI Application Developer and 2026 graduate from GDUT, majoring in Artificial Intelligence.
 
-I build real-world AI systems and developer tools. My work spans from full-stack RAG architectures to browser extensions and WeChat mini programs. I write about what I learn — not as polished tutorials, but as honest records of figuring things out.
+I build real-world AI systems and developer tools. My work spans from full-stack RAG architectures to browser extensions and WeChat mini programs. I write about what I learn.
 
 ---
 
