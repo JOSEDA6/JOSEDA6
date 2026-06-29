@@ -9,7 +9,7 @@ Hi! I'm **JOSEDA** — an AI Application Developer and 2026 graduate from GDUT, 
 - 🤖 **AI Applications** — Building local agents and RAG systems with multi-layer architectures.
 - 🛠️ **Developer Tools** — Building Chrome extensions and desktop utilities with vibecoding — stuff I actually use.
 - ✍️ **Technical Writing** — Writing about agent design patterns — what actually works vs what the papers say.
-- 📷 **Photography** — Shooting with a Nikon Z5 📷 — my photos live on my site 🌄.
+- 📷 **Photography** — Shooting with Nikon Z5 📷 — my photos live on my site 🌄.
 
 
 
